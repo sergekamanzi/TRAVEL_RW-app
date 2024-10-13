@@ -1,6 +1,4 @@
-Here’s a suggested `README.md` for your **TRAVEL_RW-app** project:
 
----
 
 # TRAVEL_RW-app
 
