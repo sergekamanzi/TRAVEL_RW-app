@@ -55,4 +55,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to adapt this based on any additional details you'd like to include!
