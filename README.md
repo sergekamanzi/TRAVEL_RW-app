@@ -18,6 +18,13 @@ Through this app, users can:
 - **Flutter & Dart**: For building the mobile interface and ensuring smooth performance across different devices.
 - **Firebase**: For real-time data management, authentication, and backend support.
 
+| travel rwanda main Screen | |
+| -------------- | ---------------- |
+| ![Welcome Screen](./screenshots/welcome.png) | ![Ingredient Input](./screenshots/in.png) |
+| ![Welcome Screen](./screenshots/home.png) | ![Ingredient Input](./screenshots/place.png) |
+
+
+
 ## Getting Started
 
 To get started with the project locally:
